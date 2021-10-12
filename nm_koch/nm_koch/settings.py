@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'customers',
     'employees',
     'products',
-    'rest_framework'
+    'rest_framework',
     'authentication.apps.AuthenticationConfig'
 ]
 
